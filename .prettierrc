@@ -1,0 +1,17 @@
+{
+    "singleAttributePerLine": true,
+    "bracketSameLine": true,
+    "singleQuote": true,
+    "printWidth": 80,
+    "overrides": [
+        {
+            "files": [
+                "*.html",
+                "legacy/**/*.js"
+            ],
+            "options": {
+                "tabWidth": 4
+            }
+        }
+    ]
+}
